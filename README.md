@@ -17,12 +17,11 @@
 
 ## Model of Plot
 
-![Screenshot 2023-07-30 182311](https://github.com/sagarv2522/Logistic-Regression-Aircraft/assets/109810639/55206e85-0692-4a14-835e-edef54cd8d9f)
+![Screenshot 2023-07-30 161916](https://github.com/sagarv2522/Logistic-Regression-Aircraft/assets/109810639/0de24897-eb58-4968-aadd-e1b64ee5e429)
 
 ## Confusion Matrix
 
-
-![Screenshot 2023-07-30 185642](https://github.com/sagarv2522/Logistic-Regression-Aircraft/assets/109810639/64af8ceb-7056-48a6-b21a-713bbb1e4ecf)
+![Screenshot 2023-07-30 185642](https://github.com/sagarv2522/Logistic-Regression-Aircraft/assets/109810639/47ed55be-0e02-42a8-b788-9ce11d72d75b)
 
 
 For more details 🔗, view the Notebook 📓
